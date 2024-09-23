@@ -1,4 +1,3 @@
-
 FROM openjdk:17-jdk-slim
 
 # Define o diretório de trabalho no contêiner onde todos os comandos serão executados.
